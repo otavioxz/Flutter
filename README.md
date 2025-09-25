@@ -13,9 +13,6 @@
   - Tema em cor **verde**.
   - Botão de **limpar formulário**.
 
-## Prints
-📌 Colocar aqui capturas de tela do app rodando.
-
 ## Como rodar
 ```bash
 flutter pub get
